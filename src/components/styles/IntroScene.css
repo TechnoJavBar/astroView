@@ -1,0 +1,9 @@
+.container{
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: auto;
+    background: radial-gradient(ellipse at 20% 10%, #050416 0%, #000009 40%);
+}
